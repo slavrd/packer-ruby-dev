@@ -1,0 +1,5 @@
+---
+name: default
+title: Rbenv installation
+summary: Test suite for basic check of rbenv installation
+version: 0.1.0

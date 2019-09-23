@@ -1,0 +1,5 @@
+packer_cache/
+output-*/
+.kitchen/
+Gemfile.lock
+.ruby-version
